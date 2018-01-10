@@ -1,0 +1,8 @@
+D:\newworkspace\spring-cloud\service-one\src\main\java\com\huatuo\config\SwaggerConfiguration.java
+D:\newworkspace\spring-cloud\service-one\src\main\java\com\huatuo\ServiceOneApplication.java
+D:\newworkspace\spring-cloud\service-one\src\main\java\com\huatuo\controller\RestTypeControlle.java
+D:\newworkspace\spring-cloud\service-one\src\main\java\com\huatuo\feign\UserService.java
+D:\newworkspace\spring-cloud\service-one\src\main\java\com\huatuo\controller\FeignTypeController.java
+D:\newworkspace\spring-cloud\service-one\src\main\java\com\huatuo\bean\User.java
+D:\newworkspace\spring-cloud\service-one\src\main\java\com\huatuo\config\RestTemplateConfig.java
+D:\newworkspace\spring-cloud\service-one\src\main\java\com\huatuo\hystrix\ServiceFeignFakkback.java
